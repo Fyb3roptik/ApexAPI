@@ -1,2 +1,2 @@
 # ApexAPI
-Apex Legends stats api
+Apex Legends Endpoints coming soon
